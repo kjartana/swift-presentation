@@ -1,6 +1,6 @@
-# swift-playgrounds
+## swift-playgrounds
 
-### A short introduction
+#### A short introduction
 
 ---
 
@@ -61,9 +61,13 @@ Note:
 
 ---
 
-## Explaining Functions
+## Examples
 
-![Video](https://youtu.be/uKIxWfVBcMU)
+- I have recorded some "screencasts" to show some of the features
+
+---
+
+![Video](https://www.youtube.com/embed/uKIxWfVBcMU)
 
 ---
 
