@@ -1,6 +1,6 @@
-# Sky
+# swift-playgrounds
 
-### A GitPitch Presentation Template
+### A short introduction
 
 ---
 
@@ -11,6 +11,94 @@
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
+
+---
+
+## Disclaimer
+
+#### My daughter Amalie (10) have written more lines of Swift code than me
+
+- 100 lines and counting :-) |
+- We're still at challenge 1: "Learn to Code 1" |
+
+Note:
+- Dette er mao en intro til Swift Playgrounds app'en, fra en unges ståsted
+- Målet er en kjapp intro til Swift Playgrounds
+- Vi har ikke brukt det så mye, mest pga meg
+- Challenge 1 består av 46 brett:
+-- Commands (6 brett)
+-- Functions (7 brett)
+-- For loops (7 brett)
+-- Conditional (betingelser) code (7 brett)
+-- Logical operators (5 brett)
+-- While loops (9 brett)
+-- Algorithms (5 brett)
+
+---
+
+## Swift
+
+- Programming language by Apple |
+- Adopts the best from C and Objective-C |
+
+Note:
+- Hørte/leste et sted at en av fordele med Swift var at det ikke var Objective-c :-)
+- Swift is statically, strongly typed and uses type inference to determine the initial type of all your variables and constants
+
+---
+
+## Swift Playgrounds
+
+- An iPad app |
+- Learning by playing - solving puzzles |
+- Instant feedback |
+- Introduces and explains the basic coding concepts |
+
+Note:
+- App'en har ulike "puzzles" man må løse ved å skrive swift kode
+- Man skriver kode og kan kjøre den med det samme for å se resultatet
+- Fokuserer på kode kosepter: kommandoer, funksjoner, parametere, løkker, variabler, operatorer, typer, initialisering (Initialization)
+
+---
+
+## Explaining Functions
+
+![Video](https://youtu.be/uKIxWfVBcMU)
+
+---
+
+## Examples
+
+---?image=assets/image/swift-screendump-1.png
+
+Note:
+- Screemdumps av oppgaver og kode/løsning
+
+---
+
+## Live coding
+
+Note:
+- Video av amalie som løser en oppgave
+
+---
+
+## Lessons learned
+
+- English may be a barrier |
+- Easy to get started |
+- It's fun! |
+- Keep it simple (don't get carried away) |
+- "Dad, why should I learn coding?" |
+- It "competes" with Netflix, Youtube, games etc
+
+Note:
+- Vi har som nevnt ikke brukt det så mye (ref språk barriere)
+- Alt er foreløpig på engelsk, det gjør det vanskelig å drive på egenhånd
+- Ikke alltid like populært at jeg forsøker å få henne til å lese og forstå oppgaven selv (på engelsk)
+- Puzzle/spill konseptet er genialt
+- Refaktorering hæ?! "Det funker pappa, hvorfor skal vi endre på det da?"
+- Store spørsmål som hva er poenget, hvorfor lære koding, er det gøy?
 
 ---
 
@@ -73,7 +161,7 @@ http.createServer(function (request, response) {
 ## Template Help
 
 - [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
+  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides)
 - [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
 - [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
