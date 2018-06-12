@@ -2,15 +2,25 @@
 
 #### A short introduction
 
+@size[0.5em](by my daughter Amalie 10 & Kjartan)
+
 ---
 
-## Disclaimer
+---?color=black
 
-##### My daughter Amalie (10) have written more lines of Swift code than me
+### @color[white](Disclaimer)
 
----?image=assets/image/amalie-coding.jpg&size=auto 80%&opacity=60
+@div[left-50]
+<br><br><br>
+@ul[brighten]
+- Amalie have written more lines of Swift code than me :-)
+@ulend
+@divend
 
-- ..and we're still at challenge 1: "Learn to Code 1"
+@div[right-50]
+<br>
+![AMALIE](assets/image/amalie-coding.jpg&size=auto 70%)
+@divend
 
 Note:
 - Dette er mao en intro til Swift Playgrounds app'en, fra en unges ståsted
@@ -24,6 +34,10 @@ Note:
 -- Logical operators (5 brett)
 -- While loops (9 brett)
 -- Algorithms (5 brett)
+
+---
+
+---?image=assets/image/amalie-coding.jpg&size=auto 80%&opacity=60
 
 ---
 
