@@ -10,16 +10,16 @@
 
 ### @color[white](Disclaimer)
 
-@div[left-50]
+@div[left-40]
 <br><br><br>
 @ul[brighten]
 - Amalie have written more lines of Swift code than me :-)
 @ulend
 @divend
 
-@div[right-50]
+@div[right-60]
 <br>
-![AMALIE](assets/image/amalie-coding.jpg&size=auto 70%)
+![AMALIE](assets/image/amalie-coding.jpg)
 @divend
 
 Note:
