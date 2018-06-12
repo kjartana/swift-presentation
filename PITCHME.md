@@ -8,9 +8,9 @@
 
 ##### My daughter Amalie (10) have written more lines of Swift code than me
 
----?image=assets/image/amalie-swift-coding.jpg
+---?image=assets/image/amalie-swift-coding.jpg&size=auto 50%&opacity=60
 
-- ..and we're still at challenge 1: "Learn to Code 1" |
+- ..and we're still at challenge 1: "Learn to Code 1"
 
 Note:
 - Dette er mao en intro til Swift Playgrounds app'en, fra en unges ståsted
