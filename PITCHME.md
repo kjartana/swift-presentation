@@ -5,7 +5,7 @@
 <br>
 @size[0.5em](by)
 <br>
-@size[0.5em](Senior Swift developer Amalie 10 & Junior Swift developer Kjartan)
+@size[0.5em](Senior Swift developer Amalie & Junior Swift developer Kjartan)
 
 Note:
 - Dette er mao en intro til Swift Playgrounds app'en, fra en unges ståsted
@@ -161,3 +161,41 @@ Note:
 - Ikke forvent at ungen blir helt hekta. Gjør det heller til noe dere gjør sammen
 
 ---
+
+---
+
+### Next topic
+
+---
+
+### Sabona
+
+- Bistandsorganisasjon
+- Vi besøkte Zimbabwe julen 2015
+- Privat innsamlingsaksjon
+
+Note:
+- Vi samlet inn penger til matutdeling når vi var der i 2015
+- Nå har vi bestemt oss for å samle inn penger til solcelle drevede lamper
+
+---
+
+### BRIGHT SunBell
+
+#### Solcelle drevet lampe
+
+@div[left-50]
+<br>
+<ul>Lampe
+<li>Lommelykt
+<li>Lader
+</ul>
+@divend
+
+@div[right-50]
+![PUZZLE](assets/image/bright-sun-bell.jpg)
+@divend
+
+---
+
+### God tur!!
