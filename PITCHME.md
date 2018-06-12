@@ -1,24 +1,11 @@
 ## Swift Playgrounds
 
 #### A short introduction
-
+<br>
+<br>
 @size[0.5em](by)
 <br>
-@size[0.5em](Senior Swift developer Amalie \(10\) & junior Swift developer Kjartan)
-
----
-
-## Disclaimer
-
-@div[left-30]
-<br>
-#####Amalie have written more lines of Swift code than me :-)
-@divend
-
-@div[right-70]
-<br>
-![AMALIE](assets/image/amalie-coding.jpg)
-@divend
+@size[0.5em](Senior Swift developer Amalie 10 & Junior Swift developer Kjartan)
 
 Note:
 - Dette er mao en intro til Swift Playgrounds app'en, fra en unges ståsted
@@ -35,14 +22,19 @@ Note:
 
 ---
 
----?image=assets/image/amalie-coding.jpg&size=auto 80%&opacity=60
-
----
-
 ## Swift
 
-- Programming language by Apple |
-- Adopts the best from C and Objective-C |
+@div[left-50]
+<br>
+@ul[brighten]
+- Programming language by Apple
+- Adopts the best from C and Objective-C
+@ulend
+@divend
+
+@div[right-50]
+![AMALIE](assets/image/amalie-coding.jpg)
+@divend
 
 Note:
 - Hørte/leste et sted at en av fordele med Swift var at det ikke var Objective-c :-)
