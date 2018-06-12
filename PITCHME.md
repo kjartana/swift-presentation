@@ -61,11 +61,9 @@ Note:
 -- While loops (9 brett)
 -- Algorithms (5 brett)
 
----
+---?image=assets/image/my-playgrounds.png&size=auto 90%
 
 ### Playgrounds
-
----?image=assets/image/my-playgrounds.png
 
 Note:
 - Det ser ut til å være ca 40 brett/oppgaver på hver playground
