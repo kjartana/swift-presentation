@@ -58,7 +58,18 @@ Note:
 
 ### The puzzles
 
----?image=assets/image/swift-screendump-1.png
+@div[left-50]
+<br>
+@ul[brighten]
+- The goal of the puzzle
+- Write code
+- Run it (or debug)
+@ulend
+@divend
+
+@div[right-50]
+![PUZZLE](assets/image/swift-screendump-1.png)
+@divend
 
 Note:
 - Man får oppgave teksten på venstre halvdel
