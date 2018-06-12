@@ -58,16 +58,16 @@ Note:
 
 ### The puzzles
 
-@div[left-50]
+@div[left-40]
 <br>
-@ul[brighten]
+@ul
 - The goal of the puzzle
 - Write code
 - Run it (or debug)
 @ulend
 @divend
 
-@div[right-50]
+@div[right-60]
 ![PUZZLE](assets/image/swift-screendump-1.png)
 @divend
 
