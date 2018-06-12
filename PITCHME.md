@@ -171,12 +171,20 @@ Note:
 ### Sabona
 
 - Bistandsorganisasjon
-- Vi besøkte Zimbabwe julen 2015
-- Privat innsamlingsaksjon
+- Vi besøkte Zimbabwe & Dopota julen 2015
+- Innsamlingsaksjon ifbm 40 års feiring
+- Lamper til alle 200 familier i Dopota
 
 Note:
+- Webstep julegave
+- Sabona startet av Ynghild Solholm, vennine av kona
+- Feiret jul der i 2015
 - Vi samlet inn penger til matutdeling når vi var der i 2015
-- Nå har vi bestemt oss for å samle inn penger til solcelle drevede lamper
+- Vi ble begge 40 i år - Vi har det vi trenger
+- Elisabeth har jobbet som konsulent for BRIGHT products, som lager lamper som drives av solceller
+- Bright's største kunde er FN - Flyktingeleirer
+- Vi kom frem til at vi kunne prøve å samle inn penger til lamper til samtlige 200 familier i Dopota.
+- Vi har forhandlet frem en god deal, SunBell og Turtle for ca 500
 
 ---
 
@@ -193,7 +201,19 @@ Note:
 @divend
 
 @div[right-50]
-![PUZZLE](assets/image/bright-sun-bell.jpg)
+![BELL](assets/image/bright-sun-bell.jpg&size=auto 80%)
+@divend
+
+---
+
+### Ikke alle har strøm..
+
+@div[left-50 fragment]
+![BELL](assets/image/sabona.jpg&position=bottom&size=auto 80%)
+@divend
+
+@div[right-50 fragment]
+![BELL](assets/image/bright-sun-bell-1.png&position=bottom&size=auto 80%)
 @divend
 
 ---
