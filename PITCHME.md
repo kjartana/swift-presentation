@@ -2,7 +2,9 @@
 
 #### A short introduction
 
-@size[0.5em](by my daughter Amalie 10 & Kjartan)
+@size[0.4em](by)
+@size[0.4em](Senior Swift developer Amalie (10))
+@size[0.4em](Junior Swift developer Kjartan)
 
 ---
 
@@ -10,7 +12,7 @@
 
 @div[left-30]
 <br>
-######Amalie have written more lines of Swift code than me :-)
+#####Amalie have written more lines of Swift code than me :-)
 @divend
 
 @div[right-70]
