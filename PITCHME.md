@@ -42,8 +42,10 @@ Note:
 
 @div[left-50]
 <br>
-- Amalie (10)
-- We're at first playground: "Learn to Code 1"
+<ul>
+<li>Amalie (10)
+<li>We're at first playground: "Learn to Code 1"
+</ul>
 @divend
 
 @div[right-50]
