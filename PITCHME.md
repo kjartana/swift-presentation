@@ -96,7 +96,7 @@ Note:
 
 ---
 
-## Examples
+### Examples
 
 - I have recorded some "screencasts" to show some of the features
 - Amalie will do some "live" coding
@@ -117,7 +117,7 @@ Note:
 
 ---
 
-## Accessory Playgrounds
+### Accessory Playgrounds
 
 #### More than just solving puzzles..
 
@@ -127,13 +127,11 @@ Note:
 - Skoog musical instrument
 - The littleBits Droid Inventor Kit
 
----
+---?image=assets/image/star-wars-droid.png&opacity=40&size=auto 90%
 
-## The littleBits Droid Inventor Kit
+### The littleBits Droid Inventor Kit
 
 - Comes with a playground to write your own code for the droid
-
----?image=assets/image/star-wars-droid.png
 
 ---
 
@@ -141,7 +139,7 @@ Note:
 
 ---
 
-## Lessons learned
+### Lessons learned
 
 - It's fun! |
 - Easy to get started |
