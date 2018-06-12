@@ -10,31 +10,13 @@
 Note:
 - Dette er mao en intro til Swift Playgrounds app'en, fra en unges ståsted
 - Målet er en kjapp intro til Swift Playgrounds
-- Vi har ikke brukt det så mye, mest pga meg
-- Challenge 1 består av 46 brett:
--- Commands (6 brett)
--- Functions (7 brett)
--- For loops (7 brett)
--- Conditional (betingelser) code (7 brett)
--- Logical operators (5 brett)
--- While loops (9 brett)
--- Algorithms (5 brett)
 
 ---
 
 ## Swift
 
-@div[left-50]
-<br>
-@ul[brighten]
 - Programming language by Apple
 - Adopts the best from C and Objective-C
-@ulend
-@divend
-
-@div[right-50]
-![AMALIE](assets/image/amalie-coding.jpg)
-@divend
 
 Note:
 - Hørte/leste et sted at en av fordele med Swift var at det ikke var Objective-c :-)
@@ -53,6 +35,40 @@ Note:
 - App'en har ulike "puzzles" man må løse ved å skrive swift kode
 - Man skriver kode og kan kjøre den med det samme for å se resultatet
 - Fokuserer på kode kosepter: kommandoer, funksjoner, parametere, løkker, variabler, operatorer, typer, initialisering (Initialization)
+
+---
+
+## The Coder
+
+@div[left-50]
+<br>
+- Amalie (10)
+- We're at first playground: "Learn to Code 1"
+@divend
+
+@div[right-50]
+![AMALIE](assets/image/amalie-coding.jpg)
+@divend
+
+Note:
+- Vi har ikke brukt det så mye, mest pga meg
+- Challenge 1 består av 46 brett:
+-- Commands (6 brett)
+-- Functions (7 brett)
+-- For loops (7 brett)
+-- Conditional (betingelser) code (7 brett)
+-- Logical operators (5 brett)
+-- While loops (9 brett)
+-- Algorithms (5 brett)
+
+---
+
+### Playgrounds
+
+---?image=assets/image/my-playgrounds.png
+
+Note:
+- Det ser ut til å være ca 40 brett/oppgaver på hver playground
 
 ---
 
