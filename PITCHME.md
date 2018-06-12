@@ -127,11 +127,17 @@ Note:
 - Skoog musical instrument
 - The littleBits Droid Inventor Kit
 
----?image=assets/image/star-wars-droid.png&opacity=40&size=auto 90%
+---?image=assets/image/star-wars-droid.png&opacity=20&size=auto 90%
 
 ### The littleBits Droid Inventor Kit
 
 - Comes with a playground to write your own code for the droid
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
