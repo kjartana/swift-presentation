@@ -4,9 +4,7 @@
 
 @size[0.5em](by)
 <br>
-@size[0.5em](Senior Swift developer Amalie - 10)
-<br>
-@size[0.5em](Junior Swift developer Kjartan)
+@size[0.5em](Senior Swift developer Amalie \(10\) & junior Swift developer Kjartan)
 
 ---
 
