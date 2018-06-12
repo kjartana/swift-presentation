@@ -132,13 +132,9 @@ Note:
 ### The littleBits Droid Inventor Kit
 
 - Comes with a playground to write your own code for the droid
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+<br><br><br>
+<br><br><br>
+<br><br><br>
 ---
 
 ![Video](https://www.youtube.com/embed/NWc3Fdkwr90)
