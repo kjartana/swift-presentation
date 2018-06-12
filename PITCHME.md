@@ -6,18 +6,14 @@
 
 ---
 
----?color=black
+## Disclaimer
 
-### @color[white](Disclaimer)
-
-@div[left-40]
-<br><br><br>
-@ul[brighten]
-- Amalie have written more lines of Swift code than me :-)
-@ulend
+@div[left-30]
+<br>
+######Amalie have written more lines of Swift code than me :-)
 @divend
 
-@div[right-60]
+@div[right-70]
 <br>
 ![AMALIE](assets/image/amalie-coding.jpg)
 @divend
