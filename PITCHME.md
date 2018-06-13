@@ -194,7 +194,8 @@ Note:
 
 @div[left-50]
 <br>
-<ul>Lampe
+<ul>
+<li>Lampe
 <li>Lommelykt
 <li>Lader
 </ul>
@@ -209,7 +210,7 @@ Note:
 ### Ikke alle har strøm..
 
 @div[left-50 fragment]
-![BELL](assets/image/sabona.jpg&position=bottom&size=auto 80%)
+![BELL](assets/image/sabona.jpg)
 @divend
 
 @div[right-50 fragment]
