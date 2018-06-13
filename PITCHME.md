@@ -202,7 +202,7 @@ Note:
 @divend
 
 @div[right-50]
-![BELL](assets/image/bright-sun-bell.jpg&size=auto 80%)
+![BELL](assets/image/bright-sun-bell.jpg)
 @divend
 
 ---
@@ -214,7 +214,7 @@ Note:
 @divend
 
 @div[right-50 fragment]
-![BELL](assets/image/bright-sun-bell-1.png&position=bottom&size=auto 80%)
+![BELL](assets/image/bright-sun-bell-1.png)
 @divend
 
 ---
