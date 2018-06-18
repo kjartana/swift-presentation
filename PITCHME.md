@@ -203,13 +203,6 @@ Note:
 
 ####      Solcelle drevet lampe
 
-<br><br>
-<br><br>
-
-@div[left-50]
-@divend
-
-@div[right-50]
 <ul>
 <li>Lampe
 <li>Lommelykt
@@ -217,7 +210,8 @@ Note:
 </ul>
 <br><br>
 <br><br>
-@divend
+<br><br>
+<br><br>
 
 ---?image=assets/image/bright-sun-bell-1.png&size=auto 70%
 
