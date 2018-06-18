@@ -170,10 +170,21 @@ Note:
 
 ### Sabona
 
-- Bistandsorganisasjon
-- Vi besøkte Zimbabwe & Dopota julen 2015
-- Innsamlingsaksjon ifbm 40 års feiring
-- Mål: Lamper til alle 200 familier i Dopota
+@div[left-50]
+<br>
+<ul>
+<li>Bistandsorganisasjon
+<li>Vi besøkte Zimbabwe & Dopota julen 2015
+<li>Innsamlingsaksjon ifbm 40 års feiring
+<li>Mål: Lamper til alle 200 familiene i Dopota
+</ul>
+@divend
+
+@div[right-50]
+![BELL](assets/image/sabona.jpg)
+@divend
+
+
 
 Note:
 - Webstep julegave
@@ -197,25 +208,17 @@ Note:
 <ul>
 <li>Lampe
 <li>Lommelykt
-<li>Lader
+<li>USB lader
 </ul>
 @divend
 
 @div[right-50]
-![BELL](assets/image/bright-sun-bell.jpg?size=auto 90%)
+![BELL](assets/image/bright-sun-bell.jpg?size=auto 80%)
 @divend
 
----
+---?image=assets/image/bright-sun-bell-1.png&position=bottom&size=auto 80%
 
 ### Ikke alle har strøm..
-
-@div[left-50 fragment]
-![BELL](assets/image/sabona.jpg)
-@divend
-
-@div[right-50 fragment]
-![BELL](assets/image/bright-sun-bell-1.png)
-@divend
 
 ---
 
