@@ -162,8 +162,6 @@ Note:
 
 ---
 
----
-
 ### Next topic
 
 ---
@@ -222,4 +220,8 @@ Note:
 <br>
 ---
 
-### God tur!!
+### Vil du bidra?
+
+<br>
+
+#### Mer info på [spleis.no](https://www.spleis.no/project/42320).
