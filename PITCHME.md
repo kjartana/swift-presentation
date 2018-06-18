@@ -173,7 +173,7 @@ Note:
 - Bistandsorganisasjon
 - Vi besøkte Zimbabwe & Dopota julen 2015
 - Innsamlingsaksjon ifbm 40 års feiring
-- Lamper til alle 200 familier i Dopota
+- Mål: Lamper til alle 200 familier i Dopota
 
 Note:
 - Webstep julegave
@@ -202,7 +202,7 @@ Note:
 @divend
 
 @div[right-50]
-![BELL](assets/image/bright-sun-bell.jpg)
+![BELL](assets/image/bright-sun-bell.jpg?size=auto 90%)
 @divend
 
 ---
