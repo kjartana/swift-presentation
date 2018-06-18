@@ -197,7 +197,7 @@ Note:
 - Vi kom frem til at vi kunne prøve å samle inn penger til lamper til samtlige 200 familier i Dopota.
 - Vi har forhandlet frem en god deal, SunBell og Turtle for ca 500
 
----?image=assets/image/bright-sun-bell.jpg&color=white&position=left&size=60% 100%
+---?image=assets/image/bright-sun-bell.jpg&color=white&position=left
 
 ###      BRIGHT SunBell
 
