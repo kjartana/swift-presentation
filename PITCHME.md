@@ -197,11 +197,14 @@ Note:
 - Vi kom frem til at vi kunne prøve å samle inn penger til lamper til samtlige 200 familier i Dopota.
 - Vi har forhandlet frem en god deal, SunBell og Turtle for ca 500
 
----?image=assets/image/bright-sun-bell.jpg&color=white&position=left
+---?image=assets/image/bright-sun-bell.jpg&color=white&position=left&size=60% 100%
 
 ###      BRIGHT SunBell
 
 ####      Solcelle drevet lampe
+
+<br><br>
+<br><br>
 
 @div[left-50]
 @divend
@@ -212,8 +215,8 @@ Note:
 <li>Lommelykt
 <li>USB lader
 </ul>
-<br>
-<br>
+<br><br>
+<br><br>
 @divend
 
 ---?image=assets/image/bright-sun-bell-1.png&size=auto 70%
