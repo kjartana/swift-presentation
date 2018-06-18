@@ -216,7 +216,7 @@ Note:
 ![BELL](assets/image/bright-sun-bell.jpg?size=auto 80%)
 @divend
 
----?image=assets/image/bright-sun-bell-1.png&size=auto 80%
+---?image=assets/image/bright-sun-bell-1.png&size=auto 70%
 
 ### Ikke alle har strøm..
 <br><br><br>
