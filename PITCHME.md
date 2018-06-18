@@ -224,4 +224,4 @@ Note:
 
 <br>
 
-#### Mer info på [spleis.no](https://www.spleis.no/project/42320).
+#### Mer info på [spleis.no](https://www.spleis.no/project/42320)
