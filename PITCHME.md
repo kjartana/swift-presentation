@@ -1,35 +1,34 @@
 ## Swift Playgrounds
 
-#### A short introduction
+#### A kort introduksjon
 <br>
 <br>
-@size[0.5em](by)
+@size[0.5em](av)
 <br>
-@size[0.5em](Senior Swift developer Amalie & Junior Swift developer Kjartan)
+@size[0.5em](Amalie)
 
 Note:
-- Dette er mao en intro til Swift Playgrounds app'en, fra en unges ståsted
-- Målet er en kjapp intro til Swift Playgrounds
+- Dette er en introduksjon til Swift Playgrounds app'en på iPad
 
 ---
 
 ## Swift
 
-- Programming language by Apple
-- Adopts the best from C and Objective-C
-
-Note:
-- Hørte/leste et sted at en av fordele med Swift var at det ikke var Objective-c :-)
-- Swift is statically, strongly typed and uses type inference to determine the initial type of all your variables and constants
+- Swift er programmeringsspråk laget av Apple
+- Å programmere er å skrive kode
+- Kode er språket som iPaden forstår
+- Koden består av instruksjoner som iPaden utfører
 
 ---
 
 ## Swift Playgrounds
 
-- An iPad app |
-- Learning by playing - solving puzzles |
-- Instant feedback |
-- Introduces and explains the basic coding concepts |
+- En iPad app |
+- Målet er at man skal lære å skrive kode |
+- App'en introduserer ulike konsepter innenfor koding |
+- En "playground" (lekeplass) består av ulike oppgaver/brett |
+- Målet er å styre figuren "Byte" til å plukke gems (edelstener) og trykke på knapper
+- Man skriver kode for å løse brettet |
 
 Note:
 - App'en har ulike "puzzles" man må løse ved å skrive swift kode
@@ -38,13 +37,13 @@ Note:
 
 ---
 
-## The Coder
+## Koderen
 
 @div[left-50]
 <br>
 <ul>
-<li>Amalie (10)
-<li>We're at first playground: "Learn to Code 1"
+<li>Amalie
+<li>Jobber med den første playground'en: "Learn to Code 1"
 </ul>
 @divend
 
@@ -53,7 +52,6 @@ Note:
 @divend
 
 Note:
-- Vi har ikke brukt det så mye, mest pga meg
 - Challenge 1 består av 46 brett:
 -- Commands (6 brett)
 -- Functions (7 brett)
@@ -72,14 +70,15 @@ Note:
 
 ---
 
-### The puzzles
+### Oppgavene
 
 @div[left-40]
 <br>
 @ul
-- The goal of the puzzle
-- Write code
-- Run it (or debug)
+- Hver oppgave beskriver hva man må gjøre for løse den
+- Skrive kode
+- Kjøre/utføre koden
+- Får tilbakemelding hvis man gjør noe feil
 @ulend
 @divend
 
@@ -96,30 +95,30 @@ Note:
 
 ---
 
-### Examples
+### Eksempel videoer
 
-- I have recorded some "screencasts" to show some of the features
-- Amalie will do some "live" coding
+- 1. video viser hvordan app'en forklarer kode konseptet "Funksjoner"
+- 2. video viser hvordan man skriver kode for å løse en oppgave
 
 ---
 
 ![Video](https://www.youtube.com/embed/uKIxWfVBcMU)
 
 Note:
-- En screencast som viser hvordan app'en forklarer kode konsepter
+- En video som viser hvordan app'en forklarer kode konsepter
 
 ---
 
 ![Video](https://www.youtube.com/embed/cjCc070rqoY)
 
 Note:
-- Amalie live koder en puzzle hvor formålet er å lære å bruke NOT operatoren
+- Amalie live koder en oppgave hvor formålet er å lære å bruke NOT operatoren
 
 ---
 
-### Accessory Playgrounds
+### Tillegs Playgrounds
 
-#### More than just solving puzzles..
+#### Det er mange muligheter
 
 - LEGO MINDSTORMS EV3, Sphero SPRK+ & Dash  robots
 - Parrot drones (Mambo, Airborne & Rolling Spider)
@@ -129,9 +128,9 @@ Note:
 
 ---?image=assets/image/star-wars-droid.png&opacity=40&position=bottom&size=auto 80%
 
-### The littleBits Droid Inventor Kit
+### littleBits Droid Inventor Kit
 
-- Comes with a playground to write your own code for the droid
+- I app'en kan man skrive kode for å styre R2D2
 <br><br><br>
 <br><br><br>
 <br><br><br>
@@ -141,87 +140,9 @@ Note:
 
 ---
 
-### Lessons learned
+### Erfaringer
 
-- It's fun! |
-- Easy to get started |
-- English may be a barrier |
-- Keep it simple (don't get carried away) |
-- It "competes" with Netflix, Youtube, games etc |
-- Make it a thing you do togheter with your kid(s) |
-
-Note:
-- Vi har som nevnt ikke brukt det så mye (ref språk barriere)
-- Alt er foreløpig på engelsk, det gjør det vanskelig å drive på egenhånd
-- Ikke alltid like populært at jeg forsøker å få henne til å lese og forstå oppgaven selv (på engelsk)
-- Puzzle/spill konseptet er genialt
-- Refaktorering hæ?! "Det funker pappa, hvorfor skal vi endre på det da?"
-- Store spørsmål som hva er poenget, hvorfor lære koding, er det gøy?
-- Som med alt annet så er det alltid noe mer "spennende" å gjøre på ipad'en.. Det er en grunn til at vi fremdeles er på "Learn to code 1"
-- Ikke forvent at ungen blir helt hekta. Gjør det heller til noe dere gjør sammen
-
----
-
-### Next topic
-
----
-
-### Sabona
-
-@div[left-50]
-<br>
-<ul>
-<li>Bistandsorganisasjon
-<li>Vi besøkte Zimbabwe & Dopota julen 2015
-<li>Innsamlingsaksjon ifbm 40 års feiring
-<li>Mål: Lamper til alle 200 familiene i Dopota
-</ul>
-@divend
-
-@div[right-50]
-![BELL](assets/image/sabona.jpg)
-@divend
-
-
-
-Note:
-- Webstep julegave
-- Sabona startet av Ynghild Solholm, vennine av kona
-- Feiret jul der i 2015
-- Vi samlet inn penger til matutdeling når vi var der i 2015
-- Vi ble begge 40 i år - Vi har det vi trenger
-- Elisabeth har jobbet som konsulent for BRIGHT products, som lager lamper som drives av solceller
-- Bright's største kunde er FN - Flyktingeleirer
-- Vi kom frem til at vi kunne prøve å samle inn penger til lamper til samtlige 200 familier i Dopota.
-- Vi har forhandlet frem en god deal, SunBell og Turtle for ca 500
-
----?image=assets/image/bright-sun-bell.jpg&color=white&position=left&size=60% 100%
-
-###      BRIGHT SunBell
-
-####      Solcelle drevet lampe
-
-<ul>
-<li>Lampe
-<li>Lommelykt
-<li>USB lader
-</ul>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-
----?image=assets/image/bright-sun-bell-1.png&size=auto 70%
-
-### Ikke alle har strøm..
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br>
----
-
-### Vil du bidra?
-
-<br>
-
-#### Mer info på [spleis.no](https://www.spleis.no/project/42320)
+- Det er morsomt! |
+- Lett å komme i gang |
+- Alt er på engelsk - Litt vanskelig å skjønne alt selv |
+- En morsom ting man kan gjøre sammen med mamma/pappa |
