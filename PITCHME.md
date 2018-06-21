@@ -12,9 +12,9 @@ Note:
 
 ## Swift
 
-- Swift er et programmeringsspråk laget av Apple |
+- Swift er et programmering språk laget av Apple |
 - Å programmere er å skrive kode |
-- Kode er språket som iPaden forstår |
+- Kode er selve språket som iPaden forstår |
 - Koden består av instruksjoner som iPaden utfører |
 
 ---
