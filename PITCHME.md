@@ -1,6 +1,6 @@
 ## Swift Playgrounds
 
-#### A kort introduksjon
+#### En kort introduksjon
 <br>
 <br>
 @size[0.5em](av Amalie)
