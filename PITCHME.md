@@ -12,7 +12,7 @@ Note:
 
 ## Swift
 
-- Swift er programmeringsspråk laget av Apple |
+- Swift er et programmeringsspråk laget av Apple |
 - Å programmere er å skrive kode |
 - Kode er språket som iPaden forstår |
 - Koden består av instruksjoner som iPaden utfører |
@@ -119,16 +119,16 @@ Note:
 #### Det er mange muligheter
 
 - LEGO MINDSTORMS EV3, Sphero SPRK+ & Dash  robots
-- Parrot drones (Mambo, Airborne & Rolling Spider)
-- Teach a MeeBot to dance
-- Skoog musical instrument
-- The littleBits Droid Inventor Kit
+- Parrot droner (Mambo, Airborne & Rolling Spider)
+- Lær en MeeBot å danse
+- Skoog musikk instrument
+- The littleBits Droid Inventor Kit (som jeg har)
 
 ---?image=assets/image/star-wars-droid.png&opacity=40&position=bottom&size=auto 80%
 
 ### littleBits Droid Inventor Kit
 
-- I app'en kan man skrive kode for å styre R2D2
+- Kan skrive kode i app'en for å styre robot'en
 <br><br><br>
 <br><br><br>
 <br><br><br>
