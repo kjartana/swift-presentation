@@ -3,9 +3,7 @@
 #### A kort introduksjon
 <br>
 <br>
-@size[0.5em](av)
-<br>
-@size[0.5em](Amalie)
+@size[0.5em](av Amalie)
 
 Note:
 - Dette er en introduksjon til Swift Playgrounds app'en på iPad
@@ -14,10 +12,10 @@ Note:
 
 ## Swift
 
-- Swift er programmeringsspråk laget av Apple
-- Å programmere er å skrive kode
-- Kode er språket som iPaden forstår
-- Koden består av instruksjoner som iPaden utfører
+- Swift er programmeringsspråk laget av Apple |
+- Å programmere er å skrive kode |
+- Kode er språket som iPaden forstår |
+- Koden består av instruksjoner som iPaden utfører |
 
 ---
 
@@ -27,7 +25,7 @@ Note:
 - Målet er at man skal lære å skrive kode |
 - App'en introduserer ulike konsepter innenfor koding |
 - En "playground" (lekeplass) består av ulike oppgaver/brett |
-- Målet er å styre figuren "Byte" til å plukke gems (edelstener) og trykke på knapper
+- Målet er å styre figuren "Byte" til å plukke gems (edelstener) og trykke på knapper |
 - Man skriver kode for å løse brettet |
 
 Note:
@@ -72,7 +70,7 @@ Note:
 
 ### Oppgavene
 
-@div[left-40]
+@div[left-60]
 <br>
 @ul
 - Hver oppgave beskriver hva man må gjøre for løse den
@@ -82,7 +80,7 @@ Note:
 @ulend
 @divend
 
-@div[right-60]
+@div[right-40]
 ![PUZZLE](assets/image/swift-screendump-1.png)
 @divend
 
@@ -97,8 +95,8 @@ Note:
 
 ### Eksempel videoer
 
-- 1. video viser hvordan app'en forklarer kode konseptet "Funksjoner"
-- 2. video viser hvordan man skriver kode for å løse en oppgave
+- Viser hvordan app'en forklarer kode konseptet "Funksjoner"
+- Viser hvordan man skriver kode for å løse en oppgave
 
 ---
 
@@ -116,7 +114,7 @@ Note:
 
 ---
 
-### Tillegs Playgrounds
+### Tilleggs Playgrounds
 
 #### Det er mange muligheter
 
